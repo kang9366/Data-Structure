@@ -3,8 +3,7 @@ import java.util.Stack;
 public class Main {
     public static void main(String[] args) {
         //stack 선언
-        Stack<Integer> stack = new Stack<>(); //int형 스택
-
+        Stack<Integer> stack = new Stack<>(); //int형 스택 선언
         stack.push(1); //stack에 값 추가
         stack.clear(); //stack의 전체 값 제거
         stack.push(2);
