@@ -5,6 +5,7 @@
 * [스택(Stack)](https://velog.io/@kang9366/자료구조-스택Stack)
 * [큐(Queue)](https://velog.io/@kang9366/자료구조-큐Queue)
 * [링크드 리스트]()
+* [해쉬]()
 * [힙]()
 * [트리]()
 
