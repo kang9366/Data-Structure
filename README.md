@@ -16,6 +16,6 @@
 * [linked list]()
 
 ## Kotlin
-
+* [list]()
 
 
